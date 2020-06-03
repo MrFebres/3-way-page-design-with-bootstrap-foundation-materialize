@@ -1,0 +1,28 @@
+body {
+  background: url(../img/hamburguesa_background.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  overflow: scroll;
+}
+
+textarea {
+  margin: 0;
+  width: 80%
+}
+
+img {
+  border-radius: 5px;
+}
+
+.img-comment {
+  height: 10vh;
+  width: 7vw;
+  float: left;
+  margin-right: 1vw;
+}
+
+.todo-cont {
+  background-color: rgba(0, 0, 0, 0.5);
+}
